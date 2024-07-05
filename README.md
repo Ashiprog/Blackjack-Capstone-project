@@ -1,3 +1,4 @@
+# Detailed description of Blackjack project
 This Python script allows you to play a simple game of blackjack against the computer. It includes functionalities such as dealing cards, calculating scores, checking for blackjack, and determining the winner based on standard blackjack rules.
 
 Requirements
