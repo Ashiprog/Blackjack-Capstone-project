@@ -3,21 +3,21 @@ This Python script allows you to play a simple game of blackjack against the com
 Requirements
 Python 3.x
 random module (comes pre-installed with Python)
+
 How to Play
 Setup:
-
 Run the script in your Python environment.
+
 Game Start:
-
 You will be prompted to start the game by typing y for yes or n for no.
-Gameplay:
 
+Gameplay:
 You and the computer will each receive two cards initially.
 You can choose to get another card (y) or pass (n).
 The objective is to get as close to 21 as possible without exceeding it.
 Face cards (Jack, Queen, King) are worth 10 points. Aces can be worth 1 or 11 points, whichever is better for the player.
-Winning Conditions:
 
+Winning Conditions:
 You win if:
 You have a higher score than the computer without exceeding 21.
 The computer's score exceeds 21 while yours does not.
